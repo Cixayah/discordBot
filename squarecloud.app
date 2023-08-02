@@ -1,0 +1,5 @@
+DISPLAY_NAME=Hungar BOT
+DESCRIPTION=Cix
+MAIN=index.js
+MEMORY=128
+VERSION=recommended

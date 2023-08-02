@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord-player": "^6.6.2",
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.3.1",
+    "spotify-web-api-node": "^5.0.2",
+    "ytdl-core": "^4.11.5"
+  },
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "Cix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "botDiscord"
+  },
+  "keywords": [
+    "Cix"
+  ],
+  "author": "Cix",
+  "license": "ISC"
+}
