@@ -1,0 +1,6 @@
+index.js
+index.js[voice]
+javascript-dotenv
+JsNaCl
+https://github.com/ytdl-org/youtube-dl/archive/refs/heads/master.zip
+ffmpeg
